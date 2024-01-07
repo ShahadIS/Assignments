@@ -1,14 +1,14 @@
 public class Q10 {
-    public static void main(String[] args) {
-        ISMultiple(40,10);
-        System.out.println(ISMultiple(40,10));
-    }
-    public static boolean ISMultiple(long n,long m)
-    {
-        if(n%m==0)
-            return true;
-        else
-            return false;
+    /*
+    Give examples of values for a and b in the pseudorandom
+    generator given on page 113 of this chapter such that the result is not very random looking, for n = 1000.
+    For the first run of the program:
 
-    }
+a = 153
+b = 271
+For the second run of the program:
+
+a = 487
+b = 619
+     */
 }

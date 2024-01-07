@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        FibonacciProgression f=new FibonacciProgression(2,2);
-        f.printProgression(8);
+        System.out.println("Hello world!");
     }
 }
